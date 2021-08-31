@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460790417926",
+    "project_id": "flutterb-dc9c3",
+    "storage_bucket": "flutterb-dc9c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460790417926:android:0c603121597c3d184f9187",
+        "android_client_info": {
+          "package_name": "com.home299.carbeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460790417926-b9gr6fgb2q4djln0sqkm3u5vteejpesk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uUhGaTDafATVpqV6GM5STTgRf0dH5Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460790417926-b9gr6fgb2q4djln0sqkm3u5vteejpesk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
